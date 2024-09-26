@@ -44,6 +44,7 @@ Mailer.AI/
 │       └── gmail.png           # Image asset for the Streamlit app
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
 
 ## Installation
 
