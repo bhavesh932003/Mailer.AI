@@ -58,6 +58,14 @@ Mailer.AI/
   python3 -m venv env
   source env/bin/activate  # On Windows: env\Scripts\activate
   ```
+- **Install the required dependencies**: Install all necessary libraries and packages required to run the project.
+  ```bash
+  pip install -r requirements.txt
+  ```
+- **Run the application**: Finally, run the application to start the service.
+  ```bash
+  python main.py
+  ```
 
  
 
