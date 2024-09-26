@@ -44,7 +44,14 @@ Mailer.AI/
 │       └── gmail.png           # Image asset for the Streamlit app
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
-
+ Usage
+Extracting Job Descriptions
+Open the Streamlit app (main.py) in your browser.
+Input a job description URL.
+The app will extract and display the relevant job description information.
+Use the provided controls to generate a personalized email based on the extracted job description.
+Customizing Emails
+You can adjust the tone and structure of the emails by editing the email generation logic in main.py and the portfolio of skills in app/resource/my_portfolio.csv.
 
 
 
