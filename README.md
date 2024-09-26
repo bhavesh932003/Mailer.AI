@@ -67,6 +67,10 @@ Mailer.AI/
   python main.py
   ```
 
+## Usage
+
+- **Extracting Job Descriptions**
+
  
 
 
