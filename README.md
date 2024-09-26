@@ -52,6 +52,12 @@ Mailer.AI/
   ```bash
   git clone https://github.com/yourusername/mailer.ai.git
   cd mailer.ai
+  ```
+- **Set Up a Virtual Environment**: (Optional but recommended) Create a virtual environment to manage dependencies:
+  ```bash
+  python3 -m venv env
+  source env/bin/activate  # On Windows: env\Scripts\activate
+  ```
 
  
 
